@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : ACS712ELCTR-20A-T.LibPkg
+
+Section : D:\Altium Designer\Libraries\Custom\ACS712\ACS712ELCTR-20A-T.lia
+    Section : PCB Library - ACS712ELCTR-20A-T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ACS712ELCTR-20A-T On Line 146
+            Warning - 1 : Skipping Token attachedSymbol On Line 253
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ACS712ELCTR-20A-T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 101
+        EndSection
+
+        Section : Generating SCH Library - ACS712ELCTR-20A-T.SchLib
+        EndSection
+    EndSection
+EndSection

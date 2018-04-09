@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : 0154004.DR.LibPkg
+
+Section : D:\Altium Designer\Libraries\Custom\Fuse\0154004.DR.lia
+    Section : PCB Library - 0154004.DR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 0154004.DR On Line 105
+            Warning - 1 : Skipping Token attachedSymbol On Line 154
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 0154004.DR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 98
+        EndSection
+
+        Section : Generating SCH Library - 0154004.DR.SchLib
+        EndSection
+    EndSection
+EndSection
