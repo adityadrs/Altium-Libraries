@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : TCMT4100.LibPkg
+
+Section : D:\Content\Altium_lenovo\Libraries\Extracted\Vishay\Snapeda\TCMT4100.lia
+    Section : PCB Library - TCMT4100.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TCMT4100 On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 306
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TCMT4100.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 105
+        EndSection
+
+        Section : Generating SCH Library - TCMT4100.SchLib
+        EndSection
+    EndSection
+EndSection

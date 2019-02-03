@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : SFH615A-3X009T.LibPkg
+
+Section : D:\Altium Designer\Libraries\Extracted\SFH615A-3X009T.lia
+    Section : PCB Library - SFH615A-3X009T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SFH615A-3X009T On Line 108
+            Warning - 1 : Skipping Token attachedSymbol On Line 220
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SFH615A-3X009T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 99
+            Warning - 1 : Skipping Token isVisible On Line 193
+            Warning - 1 : Skipping Token isVisible On Line 194
+            Warning - 1 : Skipping Token isVisible On Line 195
+            Warning - 1 : Skipping Token isVisible On Line 196
+        EndSection
+
+        Section : Generating SCH Library - SFH615A-3X009T.SchLib
+        EndSection
+    EndSection
+EndSection

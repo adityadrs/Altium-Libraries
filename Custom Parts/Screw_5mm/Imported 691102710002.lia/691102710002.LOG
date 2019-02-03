@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 691102710002.LibPkg
+
+Section : D:\Content\Altium_lenovo\Libraries\Custom\Screw_5mm\691102710002.lia
+    Section : PCB Library - 691102710002.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 105
+            Warning - 1 : Skipping Token 2 On Line 109
+            Warning - 1 : Skipping Token attachedSymbol On Line 154
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 691102710002.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - 691102710002.SchLib
+        EndSection
+    EndSection
+EndSection

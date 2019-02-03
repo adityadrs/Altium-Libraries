@@ -1,0 +1,48 @@
+PCAD Importer Log
+Project : IRL530PBF.LibPkg
+
+Section : D:\Altium Designer\Libraries\Custom\Polarity Protection\IRL530PBF.lia
+    Section : PCB Library - IRL530PBF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 165
+            Warning - 1 : Skipping Token isVisible On Line 166
+            Warning - 1 : Skipping Token isVisible On Line 167
+            Warning - 1 : Skipping Token isVisible On Line 230
+            Warning - 1 : Skipping Token isVisible On Line 231
+            Warning - 1 : Skipping Token isVisible On Line 232
+            Warning - 1 : Skipping Token isVisible On Line 317
+            Warning - 1 : Skipping Token isVisible On Line 318
+            Warning - 1 : Skipping Token isVisible On Line 319
+            Warning - 1 : Skipping Token MFNS On Line 343
+            Warning - 1 : Skipping Token attachedSymbol On Line 451
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - IRL530PBF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 44
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token multiLayer On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 162
+            Warning - 1 : Skipping Token multiLayer On Line 182
+            Warning - 1 : Skipping Token layerContents On Line 188
+            Warning - 1 : Skipping Token layerContents On Line 221
+            Warning - 1 : Skipping Token multiLayer On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 282
+            Warning - 1 : Skipping Token layerContents On Line 305
+            Warning - 1 : Skipping Token isVisible On Line 403
+            Warning - 1 : Skipping Token isVisible On Line 404
+            Warning - 1 : Skipping Token isVisible On Line 405
+        EndSection
+
+        Section : Generating SCH Library - IRL530PBF.SchLib
+        EndSection
+    EndSection
+EndSection

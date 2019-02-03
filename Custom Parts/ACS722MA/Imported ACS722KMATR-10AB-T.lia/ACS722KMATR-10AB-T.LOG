@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : ACS722KMATR-10AB-T.LibPkg
+
+Section : D:\Altium Designer\Libraries\Custom\ACS722MA\ACS722KMATR-10AB-T.lia
+    Section : PCB Library - ACS722KMATR-10AB-T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ACS722KMATR-10AB-T On Line 122
+            Warning - 1 : Skipping Token attachedSymbol On Line 309
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ACS722KMATR-10AB-T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 107
+        EndSection
+
+        Section : Generating SCH Library - ACS722KMATR-10AB-T.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : SN74HC21DT.LibPkg
+
+Section : D:\Content\Altium_lenovo\Libraries\Custom\Gates\SN74HC21DT.lia
+    Section : PCB Library - SN74HC21DT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN74HC21DT On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 301
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN74HC21DT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - SN74HC21DT.SchLib
+        EndSection
+    EndSection
+EndSection

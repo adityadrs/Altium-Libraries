@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : FQD7P06TM.LibPkg
+
+Section : D:\Altium Designer\Libraries\Custom\Polarity Protection\FQD7P06TM.lia
+    Section : PCB Library - FQD7P06TM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FQD7P06TM On Line 195
+            Warning - 1 : Skipping Token attachedSymbol On Line 252
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FQD7P06TM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 131
+        EndSection
+
+        Section : Generating SCH Library - FQD7P06TM.SchLib
+        EndSection
+    EndSection
+EndSection

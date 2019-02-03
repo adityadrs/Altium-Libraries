@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : SN74AUP1G08DCKR.LibPkg
+
+Section : D:\Content\Altium_lenovo\Libraries\Custom\TI\AND Gate\SN74AUP1G08DCKR.lia
+    Section : PCB Library - SN74AUP1G08DCKR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SN74AUP1G08DCKR On Line 132
+            Warning - 1 : Skipping Token attachedSymbol On Line 209
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SN74AUP1G08DCKR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 91
+            Warning - 1 : Skipping Token layerContents On Line 94
+        EndSection
+
+        Section : Generating SCH Library - SN74AUP1G08DCKR.SchLib
+        EndSection
+    EndSection
+EndSection
